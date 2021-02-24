@@ -82,7 +82,7 @@
           <div class="col-sm-4 d"> 
             <div class="fakeimg"  style="text-align: center;">iPhone X</div>
               <div class="inside">
-                <h3 style="text-align: center;">300$</h3>
+                <h3 style="text-align: center;">240$</h3>
                 <button class="b-details">See details</button>
                 <button>Add to cart </button>
             </div>
